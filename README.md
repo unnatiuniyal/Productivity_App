@@ -51,7 +51,16 @@ Productivity_App/
 │       └── tasks.json
 ├── lib/
 │   └── gson-2.8.9.jar
-└── bin/
+├── bin/
+│   └── organizer/
+│       ├── Main.class
+│       ├── Task.class
+│       ├── TaskManager.class
+│       ├── PomodoroTimer.class
+│       ├── QuotesManager.class
+│       └── Dashboard.class
+└── README.md
+
 ```
 
 ---
